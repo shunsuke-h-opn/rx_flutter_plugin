@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:rx_flutter_plugin/src/rx_flutter_method_channel.dart';
 //import 'dart:io';
